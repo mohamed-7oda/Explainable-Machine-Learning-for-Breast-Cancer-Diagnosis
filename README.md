@@ -119,10 +119,3 @@ All models were evaluated using a **70/15/15 train-validation-test split**.
 * Explore ensemble explainability techniques
 * Integrate real-time explainability systems
 * Add counterfactual explanations
-
----
-
-## 👨‍💻 Author
-
-**Mohamed Mahmoud Emam**
-Machine Learning & AI Engineer
